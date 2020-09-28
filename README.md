@@ -10,4 +10,4 @@ My top 3 Observations for this homework are the following:
 #2)  The top spender within the dataset spent on average less than the average amount of money spent by players that participated in the game.  The company could consider keeping item prices low to drive up the purchase count of items. 
 
 
-#3)  According to the data provided, it was discovered that the most popular item and the most profitable item are the same.  This could help inform the company to what type of items perform well in the game and they can create items with similar functions to enure continued spendings.
+#3)  According to the data provided, it was discovered that the most popular item and the most profitable item are the same.  This could help inform the company to what type of items perform well in the game and they can create items with similar functions to ensure continued spendings.
